@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.dgthealth.moodlemobile"
+        id        = "com.dgthealth.mobile"
         versionCode = "35200"
         android-versionCode="35200"
-        version   = "1.0">
+        version   = "3.5">
     <name>DgtHealth</name>
 
     <description>
